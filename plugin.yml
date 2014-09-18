@@ -1,0 +1,11 @@
+name: EdificialIntelligence
+version: 0.1
+author: Gus
+main: com.gus.edificialIntelligence.EdificialIntelligencePlugin
+commands:
+    visualize:
+        permission: edificialintelligence.visualize
+permissions:
+    edificialintelligence.*:
+    edificialintelligence.visualize:
+        default: op
